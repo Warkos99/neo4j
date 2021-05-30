@@ -2,4 +2,4 @@
 
 Instalar las dependencias del pom.xml 
 
-configura
+configura el neo4j con el username :neo4j y el password:123
